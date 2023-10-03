@@ -1,4 +1,5 @@
 # testing_spark
+Created with kind assistance of ChatCPT
 Few examples of spark code that gives different results in local and cluster mode with multiple executors
 
 ## basics about cluster and client mode
